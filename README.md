@@ -1,0 +1,1 @@
+This is a secure authentication module that implements password based login along with OTP verification via Telegram. THis securely stores user credentials in SQLlite database and sends OTPs thorough a Telegram bot for additional security
